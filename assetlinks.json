@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hardhat.hardhat",
+    "sha256_cert_fingerprints":
+    ["6B:94:97:06:84:2F:89:65:CD:8D:07:01:97:91:7C:C3:2C:AD:64:88:70:2F:0A:A3:8D:AD:89:0D:59:DD:41:33"]
+  }
+}]
